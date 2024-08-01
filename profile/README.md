@@ -1,7 +1,10 @@
-## Desarrollo de aplicaciones móviles
+## Mobile Apps Development
 
-### Grupo XX
+### Team XX
 
+Welcome! 
+
+In here you will find the code repositories for the project, alongside the documenation (In its own repo).
 
 
 <!--
