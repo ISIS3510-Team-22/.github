@@ -1,10 +1,12 @@
 ## Mobile Apps Development
 
-### Team XX
+### Team 22
 
 Welcome! 
 
 In here you will find the code repositories for the project, alongside the documenation (In its own repo).
+
+This is part of the course of mobile development, focusing on developing for flutter and kotlin.
 
 
 <!--
